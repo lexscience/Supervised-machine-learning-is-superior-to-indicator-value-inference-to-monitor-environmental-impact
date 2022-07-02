@@ -1,7 +1,14 @@
 # Salmon_ISM
 
-This repository was created to make all codes used in "Supervised machine learning is superior to indicator value inference to monitor environmental impact of salmon aquaculture using eDNA metabarcodes" by Frühe, Cordier, Dully, Breiner, Pawlowski, Martins, Wilding &amp; Stoeck, publicly available.  
+This repository includes all codes used in "Supervised machine learning is superior to indicator value inference to monitor environmental impact of salmon aquaculture using eDNA metabarcodes" by Frühe, Cordier, Dully, Breiner, Pawlowski, Martins, Wilding &amp; Stoeck. 
 
+
+<div id="badges">
+  <a href="[https://www.linkedin.com/in/dr-larissa-fr%C3%BChe-6761461ba/](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15434)">
+    <img src="https://img.shields.io/badge/MolecularEcology-darkblue?style=for-the-badge&logo=molecularecology&logoColor=white" alt="MolEcol Badge"/>
+<div/>
+    
+---
 
 
 In the file SML_Analysis.R you will find everything you need to run Supervised Machine Learning tests on our dataset. The accompanied file meta.txt is a metadatatable corresponding to the samples we used (see Ssupplementary Information 1 of the paper).  
