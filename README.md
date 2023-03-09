@@ -1,4 +1,4 @@
-# Salmon_ISM
+# Supervised machine learning is superior to indicator value inference to monitor environmental impact of salmon aquaculture using eDNA metabarcodes
 
 This repository includes all codes used in "Supervised machine learning is superior to indicator value inference to monitor environmental impact of salmon aquaculture using eDNA metabarcodes" by Frühe, Cordier, Dully, Breiner, Pawlowski, Martins, Wilding &amp; Stoeck. 
 
